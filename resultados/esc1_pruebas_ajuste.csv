@@ -1,0 +1,3 @@
+Variable,n,Media muestral,Media teorica,D (KS),p-valor KS,Chi2,p-valor Chi2
+Entre llegadas,20073,2.989,3.0,0.0051,0.6645,4.3302,0.8884
+Servicio,20000,2.5049,2.5,0.0052,0.6523,4.691,0.8604
