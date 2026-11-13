@@ -1,0 +1,5 @@
+Plan,Horas-cajero,Wq (min),IC 95% (+/-),Percentil 95 (min),Espera max (min),% espera > 10 min,Min. despues del cierre
+5 fijos,45.0,2.39,0.375,10.763,15.247,7.154,12.443
+6 fijos,54.0,0.675,0.137,4.18,7.454,0.633,11.253
+4 fijos + 2 refuerzo,47.0,0.972,0.162,5.306,9.59,1.112,11.253
+5 fijos + 1 refuerzo,50.5,0.74,0.14,4.474,7.869,0.662,11.253
