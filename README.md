@@ -1,6 +1,6 @@
 # Simulación de un sistema de atención: teoría de colas M/M/c y optimización del número de cajeros
 
-Proyecto final de **Modelación y Simulación** — Universidad del Valle de Guatemala (Opción 2, tema 17).
+Proyecto final de **Modelación y Simulación**, Universidad del Valle de Guatemala (Opción 2, tema 17).
 
 | Integrante | Carné |
 |---|---|
@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 ## Uso
 
-Correr todos los escenarios en orden (tarda alrededor de dos minutos):
+Correr todos los escenarios en orden (tarda unos minutos, la animación es lo más lento):
 
 ```bash
 python correr_todo.py
